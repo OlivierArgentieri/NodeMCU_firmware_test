@@ -27,8 +27,11 @@
     <ClCompile Include="Menu.cpp">
       <Filter>Source Files\Model</Filter>
     </ClCompile>
+    <ClCompile Include="Password.cpp">
+      <Filter>Source Files\Model</Filter>
+    </ClCompile>
     <ClCompile Include="Wifi.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Model</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -36,6 +39,9 @@
       <Filter>Header Files\Model</Filter>
     </ClInclude>
     <ClInclude Include="Wifi.h">
+      <Filter>Header Files\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Password.h">
       <Filter>Header Files\Model</Filter>
     </ClInclude>
   </ItemGroup>
